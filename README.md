@@ -1,3 +1,9 @@
+### PURPOSE OF THIS FORK:
+Fixes ugly html/vue formatting that Prettier team doesn't want to fix:  
+https://github.com/prettier/prettier/issues/5377
+
+---------------
+
 ![Prettier Banner](https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png)
 
 <h2 align="center">Opinionated Code Formatter</h2>
